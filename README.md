@@ -1,5 +1,5 @@
 # CNI-watermark-generator
-This small script allows French "Carte nationale d'Identité" holders to add a watermark to their ID so that they can track their id if their document gets online stolen.
+This small script allows French "Carte nationale d'Identité" (national identity card) holders to add a watermark to their ID so that they can track their id if their document gets online stolen.
 
 Ce simple script permet aux détenteurs de la "Carte nationale d'identité" française d'ajouter un léger filigrame à leur document d'identité afin de tracer les copies qu'ils donnent s'il venait à être volé.
 ## English guide
@@ -44,7 +44,7 @@ Avant tout, soyez sûr d'avoir Python et Pip d'installés sur votre ordinateur (
 Installez les dépendances.
 ```pip install -r requirements.txt```
 #### Définire la bonne police d'écriture (si pas sur macOS)
-Si vous n'utilisez pas macOS, éditez la variable `arial_font_path` dans le scrupt. Remplacez le contenu de la variable par le chemin vers la police de votre choix au format TTF sur votre ordinateur (J'ai personnellement choisi l'Arial). Si vous ne savez pas trouver la variable du chemin vers la police Arial sur votre système, recherchez sur Google.
+Si vous n'utilisez pas macOS, éditez la variable `arial_font_path` dans `main.py`. Remplacez le contenu de la variable par le chemin vers la police de votre choix au format TTF sur votre ordinateur (J'ai personnellement choisi Arial). Si vous ne savez pas où trouver la variable du chemin vers la police Arial sur votre système, recherchez sur Google.
 
 /!\ Dans tous les cas, la police d'écriture doit être au format .ttf
 #### Déplacez le scan de votre CNI dans le bon dossier
