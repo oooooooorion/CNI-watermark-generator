@@ -18,9 +18,9 @@ If you don't use Apple's macOS, edit the `arial_font_path` variable. I set it up
 /!\ Must be in ttf format
 #### Place your ID card on the right folder
 Your input images must respect the following format :
-• input images MUST be in a .png format
-• height of the image MUST be 1000px
-• recto image must be named exactly `CNI-recto-original.png` and verso image `CNI-verso-original.png`
+ - input images MUST be in a .png format
+ - height of the image MUST be 1000px
+ - recto image must be named exactly `CNI-recto-original.png` and verso image `CNI-verso-original.png`
 
 Place your files in the `original` folder
 #### Make your script executable (on *NIX systems)
@@ -50,9 +50,9 @@ Si vous n'utilisez pas macOS, éditez la variable `arial_font_path` dans le scru
 #### Déplacez le scan de votre CNI dans le bon dossier
 
 Vos images de votre CNI doivent respecter impérativement les conditions suivantes :
-• les images originales doivent être au format PNG
-• la hauteur des images doit être de 1000 pixels
-• l'image recto doit être renommée en `CNI-recto-original.png` et le verso en `CNI-verso-original.png`.
+ - les images originales doivent être au format PNG
+ - la hauteur des images doit être de 1000 pixels
+ - l'image recto doit être renommée en `CNI-recto-original.png` et le verso en `CNI-verso-original.png`.
 
 Vous pouvez maintenant placer les images dans le dossier `original`
 #### Rendez le script exécutable (sur les systèmes *NIX)
