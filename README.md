@@ -20,7 +20,7 @@ If you don't use Apple's macOS, edit the `arial_font_path` variable. I set it up
 Your input images must respect the following format :
  - input images MUST be in a .png format
  - height of the image MUST be 1000px
- - recto image must be named exactly `CNI-recto-original.png` and verso image `CNI-verso-original.png`
+ - front image must be named exactly `CNI-recto-original.png` and back image `CNI-verso-original.png`
 
 Place your files in the `original` folder
 #### Make your script executable (on *NIX systems)
