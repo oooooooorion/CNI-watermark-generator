@@ -1,5 +1,6 @@
 # CNI-watermark-generator
 This small script allows French "Carte nationale d'Identité" holders to add a watermark to their ID so that they can track their id if their document gets online stolen.
+
 Ce simple script permet aux détenteurs de la "Carte nationale d'identité" française d'ajouter un léger filigrame à leur document d'identité afin de tracer les copies qu'ils donnent s'il venait à être volé.
 ## English guide
 ### Getting started
