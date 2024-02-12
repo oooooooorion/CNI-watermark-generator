@@ -5,7 +5,7 @@ Ce simple script permet aux détenteurs de la "Carte nationale d'identité" fran
 ## English guide
 ### Getting started
 #### Cloning the repo
-```git clone https://github.com/pgchenu/CNI-watermark-generator.git```
+```git clone https://github.com/oooooooorion/CNI-watermark-generator.git```
 
 #### Installing dependencies 
 First of all, make sure you have Python and Pip (comes with Python) installed on your machine.
